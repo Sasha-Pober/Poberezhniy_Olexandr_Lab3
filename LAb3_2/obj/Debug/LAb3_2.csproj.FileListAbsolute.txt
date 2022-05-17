@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\kpi\Projects\Programming\LAb3_2\bin\Debug\LAb3_2.exe.config
+C:\Users\HP\Documents\kpi\Projects\Programming\LAb3_2\bin\Debug\LAb3_2.exe
+C:\Users\HP\Documents\kpi\Projects\Programming\LAb3_2\bin\Debug\LAb3_2.pdb
+C:\Users\HP\Documents\kpi\Projects\Programming\LAb3_2\obj\Debug\LAb3_2.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\kpi\Projects\Programming\LAb3_2\obj\Debug\LAb3_2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\kpi\Projects\Programming\LAb3_2\obj\Debug\LAb3_2.exe
+C:\Users\HP\Documents\kpi\Projects\Programming\LAb3_2\obj\Debug\LAb3_2.pdb
+C:\Users\HP\Documents\kpi\Projects\Programming\LAb3_2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Documents\kpi\Projects\Programming\LAb3_2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Documents\kpi\Projects\Programming\LAb3_2\obj\Debug\LAb3_2.csproj.CopyComplete
